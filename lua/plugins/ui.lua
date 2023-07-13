@@ -1,4 +1,5 @@
 return {
+  -- Stolen from agriffis (github.com/agriffis)
   -- Disable the dashboard thing
   {
     "goolord/alpha-nvim",
