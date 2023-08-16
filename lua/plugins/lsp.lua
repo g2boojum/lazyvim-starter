@@ -4,6 +4,8 @@ return {
     opts = {
       servers = {
         pyright = {},
+        fortls = { mason = false },
+        ruff_lsp = { mason = false },
       },
     },
   },

@@ -16,6 +16,7 @@ return {
         "racket",
         "fennel",
         "clojure",
+        "fortran",
       })
     end,
   },
